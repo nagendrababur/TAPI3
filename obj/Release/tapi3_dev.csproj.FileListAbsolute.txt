@@ -1,0 +1,10 @@
+C:\Nagendra\tapi3_dev\bin\Release\tapi3_dev.exe
+C:\Nagendra\tapi3_dev\bin\Release\Interop.TAPI3Lib.dll
+C:\Nagendra\tapi3_dev\obj\Release\Interop.TAPI3Lib.dll
+C:\Nagendra\tapi3_dev\obj\Release\tapi3_dev.csproj.ResolveComReference.cache
+C:\Nagendra\tapi3_dev\obj\Release\tapi3_dev.Form1.resources
+C:\Nagendra\tapi3_dev\obj\Release\tapi3_dev.csproj.GenerateResource.cache
+C:\Nagendra\tapi3_dev\obj\Release\tapi3_dev.csproj.CoreCompileInputs.cache
+C:\Nagendra\tapi3_dev\obj\Release\tapi3_dev.exe
+C:\Nagendra\tapi3_dev\bin\Release\tapi3_dev.exe.config
+C:\Nagendra\tapi3_dev\obj\Release\tapi3_dev.csproj.AssemblyReference.cache
